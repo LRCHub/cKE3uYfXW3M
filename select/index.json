@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Don't Lose Your Smile",
   "base_artist": "Kep1er",
-  "createdAt": "2026-03-12T07:58:09.569440Z",
+  "createdAt": "2026-03-23T08:14:51.496214Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,15 @@
       "artist": "Kep1er",
       "has_synced": false,
       "path": "select/pl_01_Don't_Lose_Your_Smile_Kep1er.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Don't Lose Your Smile",
+      "artist": "Kep1er",
+      "has_synced": false,
+      "path": "select/localdb_01_Don't_Lose_Your_Smile_Kep1er.txt",
+      "repo_name": "cKE3uYfXW3M"
     }
   ]
 }
